@@ -1,6 +1,5 @@
 # Adobe India Hackathon: Connecting the Dots
 
-![Adobe Hackathon Banner](https://via.placeholder.com/800x200.png?text=Adobe+India+Hackathon+Connecting+the+Dots)
 
 ## 📌 Overview
 
@@ -36,21 +35,6 @@ graph TD
     H --> I[Relevance Scoring]
     I --> J[Ranked Sections Output]
 ```
-
-## 📂 Repository Structure
-
-adobe-hackathon/
-├── round1a/
-│   ├── extract_outline.py       # Main extraction script
-│   ├── Dockerfile              # Container configuration
-│   └── requirements.txt        # Dependencies
-├── round1b/
-│   ├── persona_analysis.py     # Persona analysis script
-│   ├── Dockerfile              # Container configuration
-│   └── requirements.txt        # Dependencies
-├── samples/                    # Sample input/output files
-├── README.md                   # This file
-└── approach_explanation.md     # Detailed methodology
 
 
 ## Round 1A: Installation & Execution
